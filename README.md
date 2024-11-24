@@ -27,7 +27,7 @@
 </a>
 
 <p align="left">
-  Hi! I'm <b>Vilberto Patricio</b>, a <b>Software Engineering student</b> with a passion <br> for challenges and embracing lifelong learning.<br>
+  Hi! I'm <b>Vilberto Patricio</b>, a <b>Software Engineering student</b> <br> with a passion for challenges and embracing lifelong learning.<br>
   Currently, I'm <b>exploring and learning</b> several programming languages <br> ​​and tools 🛠️, while developing a clearer understanding <br> of software development and <b>UI/UX design</b> 🎨.<br>
   I believe in the power of <b>continuous growth</b> and strive to <br> improve every day. 🌱<br>
   My goals? Build interesting projects, <b>collaborate</b> with great professionals, <br> and one day become a <b>full-stack developer</b> to make a difference <br> in the tech world! 🚀
