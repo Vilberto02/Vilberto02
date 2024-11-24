@@ -1,18 +1,60 @@
-<h1 align="center">Hi 👋, I'm Vilberto Patricio Julca</h1>
-<h3 align="center">A passionate frontend developer from Perú</h3>
-
-- 🔭 I’m currently working on [Holaa](https://github.com/Vilberto02)
-
-- 🌱 I’m currently learning **React, CSS**
-
-- 👯 I’m looking to collaborate on [Prueba](https://github.com/Vilberto02)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Vilberto Patricio</h1>
+<h3 align="center">Software Engineering Student</h3>
+<p align="center">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p align="center">
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="www.linkedin.com/in/vilberto-patricio-julca-364bb02b3">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Vilberto02">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/vilberto-patricio">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href = "mailto: albertojulcapatricio@gmail.com">
+				<img src="https://img.icons8.com/doodle/1x/gmail.png" ></a>
+</p>
+
+<br>
+
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+<p align="left">
+  Hi! I'm <b>Vilberto Patricio</b>, a <b>Software Engineering student</b> with a passion <br> for challenges and embracing lifelong learning.<br>
+  Currently, I'm <b>exploring and learning</b> several programming languages <br> ​​and tools 🛠️, while developing a clearer understanding <br> of software development and <b>UI/UX design</b> 🎨.<br>
+  I believe in the power of <b>continuous growth</b> and strive to <br> improve every day. 🌱<br>
+  My goals? Build interesting projects, <b>collaborate</b> with great professionals, <br> and one day become a <b>full-stack developer</b> to make a difference <br> in the tech world! 🚀
+  <br>
+</p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<h3 align="left"> 🖥️ Languages and Tools</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,figma,github,html,java,js,md,mysql,nextjs,nodejs,py,react,tailwind,ts,vscode&perline=18" />
+  </a>
+</p>
+
+<br>
+
+<h3 align="left"> ✨ My Statics</h3>
+<p align="left">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vilberto02&show_icons=true&theme=holi&hide_border=true" />
+  <img width="37.6%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilberto02&layout=compact&theme=holi&hide_border=true&hide=jupyter%20notebook" />
+</p>
+<br>
 
 
 <!---
