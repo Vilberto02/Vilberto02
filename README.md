@@ -43,7 +43,7 @@
 <h3 align="left"> 🖥️ Languages and Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,figma,github,html,java,js,md,mysql,nextjs,nodejs,py,react,tailwind,ts,vscode&perline=18" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,figma,github,html,java,js,md,mysql,nextjs,nodejs,py,react,tailwind,ts,vscode&perline=12" />
   </a>
 </p>
 
